@@ -1,6 +1,8 @@
+
+
 function App() {
   return (
-    <h1>Hellow World</h1>
+    <h1 className="text-5xl font-bold text-violet-500">Hellow World</h1>
   )
 }
 
