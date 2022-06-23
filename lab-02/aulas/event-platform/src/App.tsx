@@ -1,8 +1,8 @@
-import { Event } from "./pages/Event"
+import { Logo } from "./components/Logo"
 
 function App() {
   return (
-    <Event />
+    <Logo />
   )
 }
 
