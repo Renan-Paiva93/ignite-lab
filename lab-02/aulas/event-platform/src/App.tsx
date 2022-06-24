@@ -1,8 +1,10 @@
-import { Logo } from "./components/Logo"
+import { Event } from "./pages/Event"
 
 function App() {
   return (
-    <Logo />
+    <div>
+      <Event />
+    </div>
   )
 }
 

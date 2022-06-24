@@ -3,13 +3,7 @@
 @tailwind utilities;
 
 body {
-    @apply bg-zinc-900 text-zinc-100
+    @apply bg-gray-900 text-gray-100;
 }
 
-  /* //CMS = Content Managemet System
-
-
-// query / nutation
-
-  // query = buscar dados
-  // nutation =  criar, alterar ou deletar dados */
+ 
